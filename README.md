@@ -53,5 +53,5 @@
 💼 [My LinkedIn](https://www.linkedin.com/in/edrill-bilan-874741283/)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
