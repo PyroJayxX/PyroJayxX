@@ -2,8 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+
+<h1 align="center">I'm Edrill Bilan 👋</h1>
 <p align="center">
-  <span style="font-size: 2.5em;">I'm Edrill Bilan👋 </span><br>
   💻 Computer Science Student @ PLM | 🌐 Aspiring Full-Stack Developer | 🔧 Software Systems Enthusiast
 </p>
 
