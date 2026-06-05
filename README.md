@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyroJayxX&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-mauve-theta-81.vercel.app/api/top-langs/?username=PyroJayxX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,gdscript,tex" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyroJayxX&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-mauve-theta-81.vercel.app/api/top-langs/?username=PyroJayxX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,gdscript,tex" height="160"/>
 </p>
 
 ### 👨‍💻 About Me
@@ -30,8 +30,4 @@
   <a href="https://www.linkedin.com/in/edrill-bilan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://edrill-portfoliov2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://github.com/PyroJayxX"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
