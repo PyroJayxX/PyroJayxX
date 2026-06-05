@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyroJayxX&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-mauve-theta-81.vercel.app/api/top-langs/?username=PyroJayxX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,gdscript,tex" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyroJayxX&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-mauve-theta-81.vercel.app/api/top-langs/?username=PyroJayxX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,gdscript,tex" height="150"/>
 </p>
 
 ### 👨‍💻 About Me
